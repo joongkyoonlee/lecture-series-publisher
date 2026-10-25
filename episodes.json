@@ -19,7 +19,7 @@
         ]
       ],
       "duration": "10분 09초",
-      "status": "uploaded",
+      "status": "published",
       "description": "AI에게 PPT를 맡기면 매번 디자인이 달라지는 이유, 그리고 해법인 '디자인 시스템'과 'SVG'의 개념을 정리합니다. 컬러·타이포·그리드·컴포넌트 4요소와 에디토리얼/매거진/대시보드/다큐멘터리 스타일 용어까지.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
       "tags": [
         "생성형AI",
@@ -31,7 +31,8 @@
         "업무자동화"
       ],
       "zernio_post_id": "6add71056d3ed2ba5568d936",
-      "youtube_url": "https://www.youtube.com/watch?v=dsRsbE4WrhQ"
+      "youtube_url": "https://www.youtube.com/watch?v=dsRsbE4WrhQ",
+      "published_at": "2026-10-25T17:21:00+09:00"
     },
     {
       "id": "ep02",
