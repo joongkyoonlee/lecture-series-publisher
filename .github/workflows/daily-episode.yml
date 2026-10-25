@@ -1,0 +1,49 @@
+name: daily-episode
+
+on:
+  schedule:
+    - cron: "0 23 * * *"      # 매일 08:00 KST (UTC 23:00) 승인 요청
+  workflow_dispatch:
+    inputs:
+      episode:
+        description: "특정 편 번호 강제 지정 (비우면 다음 순번)"
+        required: false
+
+concurrency:
+  group: daily-episode
+  cancel-in-progress: false
+
+jobs:
+  prepare:
+    runs-on: ubuntu-latest
+    outputs:
+      ep: ${{ steps.pick.outputs.ep }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: pick
+        run: python3 scripts/pick_next.py "${{ github.event.inputs.episode }}"
+      - name: 승인용 미리보기
+        if: steps.pick.outputs.ep != ''
+        run: python3 scripts/summary.py "${{ steps.pick.outputs.ep }}" >> "$GITHUB_STEP_SUMMARY"
+
+  publish:
+    needs: prepare
+    if: needs.prepare.outputs.ep != ''
+    runs-on: ubuntu-latest
+    environment: youtube-publish        # ← Required reviewers 설정 = 승인 게이트
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+      - name: 비공개 → 공개 전환 (zernio)
+        env:
+          ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
+          YT_VISIBILITY: ${{ vars.YT_VISIBILITY }}
+        run: python3 scripts/release.py "${{ needs.prepare.outputs.ep }}"
+      - name: 진행표 갱신
+        run: |
+          git config user.name "series-bot"
+          git config user.email "series-bot@users.noreply.github.com"
+          git add episodes.json
+          git commit -m "published ${{ needs.prepare.outputs.ep }}" || exit 0
+          git push
