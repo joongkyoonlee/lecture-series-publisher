@@ -7,7 +7,7 @@ e = next(x for x in db["episodes"] if x["id"] == ep)
 body = {"platform": "youtube", "privacyStatus": os.environ.get("YT_VISIBILITY") or "public"}
 req = urllib.request.Request(f"{API}/posts/{e['zernio_post_id']}/update-metadata", method="POST",
     data=json.dumps(body).encode(),
-    headers={"Authorization": f"Bearer {os.environ['ZERNIO_API_KEY']}", "Content-Type": "application/json"})
+    headers={"Authorization": f"Bearer {os.environ['ZERNIO_API_KEY'].strip()}", "Content-Type": "application/json"})
 with urllib.request.urlopen(req, timeout=120) as r:
     print(r.status, r.read()[:500])
 e["status"] = "published"
