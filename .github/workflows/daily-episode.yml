@@ -19,7 +19,7 @@ jobs:
     outputs:
       ep: ${{ steps.pick.outputs.ep }}
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - id: pick
         run: python3 scripts/pick_next.py "${{ github.event.inputs.episode }}"
       - name: 승인용 미리보기
@@ -34,7 +34,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
       - name: 비공개 → 공개 전환 (zernio)
         env:
           ZERNIO_API_KEY: ${{ secrets.ZERNIO_API_KEY }}
