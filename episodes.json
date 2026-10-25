@@ -1,0 +1,406 @@
+{
+  "series": "생성형 AI로 PPT 만들기",
+  "episodes": [
+    {
+      "id": "ep01",
+      "no": 1,
+      "title": "[생성형 AI로 PPT 만들기 1편] AI로 PPT 만드는 비밀은 딱 2개 디자인 시스템 + SVG",
+      "thumb_l1": "AI로 PPT 만드는 비밀은 딱 2개",
+      "thumb_l2": "디자인 시스템 + SVG",
+      "source": "d27_1",
+      "cuts": [
+        [
+          "15:00",
+          "20:40"
+        ],
+        [
+          "23:20",
+          "27:40"
+        ]
+      ],
+      "duration": "10분 09초",
+      "status": "uploaded",
+      "description": "AI에게 PPT를 맡기면 매번 디자인이 달라지는 이유, 그리고 해법인 '디자인 시스템'과 'SVG'의 개념을 정리합니다. 컬러·타이포·그리드·컴포넌트 4요소와 에디토리얼/매거진/대시보드/다큐멘터리 스타일 용어까지.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
+      "tags": [
+        "생성형AI",
+        "PPT",
+        "AI PPT",
+        "디자인시스템",
+        "SVG",
+        "공무원 AI교육",
+        "업무자동화"
+      ],
+      "zernio_post_id": "6add71056d3ed2ba5568d936",
+      "youtube_url": "https://www.youtube.com/watch?v=dsRsbE4WrhQ"
+    },
+    {
+      "id": "ep02",
+      "no": 2,
+      "title": "[생성형 AI로 PPT 만들기 2편] 핀터레스트로 내 취향 무드보드",
+      "thumb_l1": "핀터레스트로",
+      "thumb_l2": "내 취향 무드보드",
+      "source": "d27_1",
+      "cuts": [
+        [
+          "29:30",
+          "34:00"
+        ],
+        [
+          "39:30",
+          "44:00"
+        ],
+        [
+          "46:30",
+          "48:20"
+        ]
+      ],
+      "duration": "10분 59초",
+      "status": "uploaded",
+      "description": "디자인 감각이 없어도 됩니다. 핀터레스트에서 'editorial slide'를 검색해 마음에 드는 장표를 모으고, 보드로 추려 최종 6장을 고르는 방법.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
+      "tags": [
+        "생성형AI",
+        "PPT",
+        "AI PPT",
+        "디자인시스템",
+        "SVG",
+        "공무원 AI교육",
+        "업무자동화"
+      ],
+      "uploaded_at": "2026-10-25T12:11:53.824020+09:00",
+      "zernio_post_id": "6add7369aeec1ff5b7b6f825",
+      "youtube_url": "https://www.youtube.com/watch?v=b9aKCvXaDKA"
+    },
+    {
+      "id": "ep03",
+      "no": 3,
+      "title": "[생성형 AI로 PPT 만들기 3편] 사진 한 장으로 HEX 컬러 팔레트",
+      "thumb_l1": "사진 한 장으로",
+      "thumb_l2": "HEX 컬러 팔레트",
+      "source": "d27_2",
+      "cuts": [
+        [
+          "05:00",
+          "08:40"
+        ],
+        [
+          "14:00",
+          "21:10"
+        ]
+      ],
+      "duration": "10분 59초",
+      "status": "uploaded",
+      "description": "Coolors 이미지 피커로 1등 장표에서 색을 뽑아 HEX 코드 팔레트(무드보드)를 만듭니다. 색이 매번 흔들리지 않게 하는 핵심 단계.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
+      "tags": [
+        "생성형AI",
+        "PPT",
+        "AI PPT",
+        "디자인시스템",
+        "SVG",
+        "공무원 AI교육",
+        "업무자동화"
+      ],
+      "uploaded_at": "2026-10-25T15:48:36.060327+09:00",
+      "zernio_post_id": "6adda6395325ce92408a7892",
+      "youtube_url": "https://www.youtube.com/watch?v=dmfgq7GsN0Q"
+    },
+    {
+      "id": "ep04",
+      "no": 4,
+      "title": "[생성형 AI로 PPT 만들기 4편] 6장 이미지로 디자인 브리프 뽑기",
+      "thumb_l1": "6장 이미지로",
+      "thumb_l2": "디자인 브리프 뽑기",
+      "source": "d27_2",
+      "cuts": [
+        [
+          "21:30",
+          "35:00"
+        ]
+      ],
+      "duration": "13분 30초",
+      "status": "draft",
+      "description": "고른 6장과 프롬프트를 AI에 넣어 '내 디자인을 한 줄로' 정의하고 컬러·폰트·그리드 초안을 만듭니다. 윈도우 캡처(Win+Shift+S) 활용법 포함.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
+      "tags": [
+        "생성형AI",
+        "PPT",
+        "AI PPT",
+        "디자인시스템",
+        "SVG",
+        "공무원 AI교육",
+        "업무자동화"
+      ]
+    },
+    {
+      "id": "ep05",
+      "no": 5,
+      "title": "[생성형 AI로 PPT 만들기 5편] 디자인 시스템 완성 사람용 HTML · AI용 JSON",
+      "thumb_l1": "디자인 시스템 완성",
+      "thumb_l2": "사람용 HTML · AI용 JSON",
+      "source": "d27_2",
+      "cuts": [
+        [
+          "35:00",
+          "47:30"
+        ],
+        [
+          "49:00",
+          "52:30"
+        ]
+      ],
+      "duration": "16분 00초",
+      "status": "draft",
+      "description": "무드보드+브리프+규칙 2개(색 이름으로 변수 금지, 레이아웃 14개 이하)를 넣어 디자인 시스템을 사람이 읽는 HTML과 AI가 읽는 JSON 두 버전으로 만듭니다.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
+      "tags": [
+        "생성형AI",
+        "PPT",
+        "AI PPT",
+        "디자인시스템",
+        "SVG",
+        "공무원 AI교육",
+        "업무자동화"
+      ]
+    },
+    {
+      "id": "ep06",
+      "no": 6,
+      "title": "[생성형 AI로 PPT 만들기 6편] 메모장 하나로 HTML·JSON 파일 만들기",
+      "thumb_l1": "메모장 하나로",
+      "thumb_l2": "HTML·JSON 파일 만들기",
+      "source": "d27_3",
+      "cuts": [
+        [
+          "00:00",
+          "11:40"
+        ]
+      ],
+      "duration": "11분 40초",
+      "status": "draft",
+      "description": "AI가 코드만 줄 때 메모장으로 .html/.json 파일 만드는 법, 그리고 처음 만든 디자인 시스템을 AI에게 보강시키는 방법.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
+      "tags": [
+        "생성형AI",
+        "PPT",
+        "AI PPT",
+        "디자인시스템",
+        "SVG",
+        "공무원 AI교육",
+        "업무자동화"
+      ]
+    },
+    {
+      "id": "ep07",
+      "no": 7,
+      "title": "[생성형 AI로 PPT 만들기 7편] 낙서 한 장을 AI가 보고서로 정리",
+      "thumb_l1": "낙서 한 장을",
+      "thumb_l2": "AI가 보고서로 정리",
+      "source": "d27_3",
+      "cuts": [
+        [
+          "12:00",
+          "21:00"
+        ]
+      ],
+      "duration": "9분 00초",
+      "status": "draft",
+      "description": "손 낙서·포스트잇 캡처 한 장을 AI가 논리적으로 정리하는 법. 새 업무는 반드시 '새 채팅'으로 시작해야 하는 이유.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
+      "tags": [
+        "생성형AI",
+        "PPT",
+        "AI PPT",
+        "디자인시스템",
+        "SVG",
+        "공무원 AI교육",
+        "업무자동화"
+      ]
+    },
+    {
+      "id": "ep08",
+      "no": 8,
+      "title": "[생성형 AI로 PPT 만들기 8편] 드디어 첫 장표 SVG로 한 장 만들기",
+      "thumb_l1": "드디어 첫 장표",
+      "thumb_l2": "SVG로 한 장 만들기",
+      "source": "d26_3",
+      "cuts": [
+        [
+          "32:00",
+          "44:00"
+        ]
+      ],
+      "duration": "12분 00초",
+      "status": "draft",
+      "description": "콘텐츠 + 디자인 시스템 JSON (+샘플 SVG)을 넣어 첫 SVG 슬라이드를 만듭니다. 확대해도 깨지지 않는 SVG의 장점 확인.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
+      "tags": [
+        "생성형AI",
+        "PPT",
+        "AI PPT",
+        "디자인시스템",
+        "SVG",
+        "공무원 AI교육",
+        "업무자동화"
+      ]
+    },
+    {
+      "id": "ep09",
+      "no": 9,
+      "title": "[생성형 AI로 PPT 만들기 9편] SVG를 PPT에 넣고 도형으로 풀어 편집",
+      "thumb_l1": "SVG를 PPT에 넣고",
+      "thumb_l2": "도형으로 풀어 편집",
+      "source": "d27_3",
+      "cuts": [
+        [
+          "40:40",
+          "46:40"
+        ]
+      ],
+      "duration": "6분 00초",
+      "status": "draft",
+      "description": "파워포인트 삽입 → 그림 → SVG, 그리고 '도형으로 변환'으로 글자·색·도형을 하나하나 수정하는 법. 이미지형 PPT의 답답함 해결.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
+      "tags": [
+        "생성형AI",
+        "PPT",
+        "AI PPT",
+        "디자인시스템",
+        "SVG",
+        "공무원 AI교육",
+        "업무자동화"
+      ]
+    },
+    {
+      "id": "ep10",
+      "no": 10,
+      "title": "[생성형 AI로 PPT 만들기 10편] PPTX 변환 3가지 방식 비교",
+      "thumb_l1": "PPTX 변환",
+      "thumb_l2": "3가지 방식 비교",
+      "source": "d26_3",
+      "cuts": [
+        [
+          "59:00",
+          "69:30"
+        ]
+      ],
+      "duration": "10분 30초",
+      "status": "draft",
+      "description": "AI에게 PPTX 변환을 시킬 때 이미지형(PNG)·수정 가능형(파이썬)·하이브리드 3가지 방식의 장단점과 프롬프트.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
+      "tags": [
+        "생성형AI",
+        "PPT",
+        "AI PPT",
+        "디자인시스템",
+        "SVG",
+        "공무원 AI교육",
+        "업무자동화"
+      ]
+    },
+    {
+      "id": "ep11",
+      "no": 11,
+      "title": "[생성형 AI로 PPT 만들기 11편] 우리 기관 양식으로 디자인 시스템 만들기",
+      "thumb_l1": "우리 기관 양식으로",
+      "thumb_l2": "디자인 시스템 만들기",
+      "source": "d27_4",
+      "cuts": [
+        [
+          "25:30",
+          "37:40"
+        ]
+      ],
+      "duration": "12분 10초",
+      "status": "draft",
+      "description": "부서에서 쓰는 PPT 빈 양식 한 장으로 기관용 디자인 시스템을 만들고, 콘텐츠를 넣어 SVG로 검증·튜닝하는 흐름.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
+      "tags": [
+        "생성형AI",
+        "PPT",
+        "AI PPT",
+        "디자인시스템",
+        "SVG",
+        "공무원 AI교육",
+        "업무자동화"
+      ]
+    },
+    {
+      "id": "ep12",
+      "no": 12,
+      "title": "[생성형 AI로 PPT 만들기 12편] 노트북LM으로 577쪽을 한 장으로",
+      "thumb_l1": "노트북LM으로",
+      "thumb_l2": "577쪽을 한 장으로",
+      "source": "d27_4",
+      "cuts": [
+        [
+          "09:00",
+          "20:30"
+        ],
+        [
+          "23:00",
+          "26:20"
+        ]
+      ],
+      "duration": "14분 50초",
+      "status": "draft",
+      "description": "인구주택총조사 577쪽 PDF를 NotebookLM에 넣어 한 장 요약, 표 숫자까지 정확히 가져오는지 검증. 공공 업무 활용 포인트.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
+      "tags": [
+        "생성형AI",
+        "PPT",
+        "AI PPT",
+        "디자인시스템",
+        "SVG",
+        "공무원 AI교육",
+        "업무자동화"
+      ]
+    },
+    {
+      "id": "ep13",
+      "no": 13,
+      "title": "[생성형 AI로 PPT 만들기 13편] 노트북LM 슬라이드에 내 디자인 시스템 입히기",
+      "thumb_l1": "노트북LM 슬라이드에",
+      "thumb_l2": "내 디자인 시스템 입히기",
+      "source": "d26_3",
+      "cuts": [
+        [
+          "96:00",
+          "103:30"
+        ]
+      ],
+      "duration": "7분 30초",
+      "status": "draft",
+      "description": "NotebookLM에서 바로 슬라이드를 만들 때 내 디자인 시스템 JSON을 붙여 넣어 우리 양식대로 뽑는 법.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
+      "tags": [
+        "생성형AI",
+        "PPT",
+        "AI PPT",
+        "디자인시스템",
+        "SVG",
+        "공무원 AI교육",
+        "업무자동화"
+      ]
+    },
+    {
+      "id": "ep14",
+      "no": 14,
+      "title": "[생성형 AI로 PPT 만들기 14편] 이미지형 PPT도 수정 가능하게 바꾸기",
+      "thumb_l1": "이미지형 PPT도",
+      "thumb_l2": "수정 가능하게 바꾸기",
+      "source": "d27_4",
+      "cuts": [
+        [
+          "37:40",
+          "40:40"
+        ],
+        [
+          "47:00",
+          "53:00"
+        ]
+      ],
+      "duration": "9분 00초",
+      "status": "draft",
+      "description": "AI가 만든 이미지 PPT(PDF)를 편집 가능한 PPTX로 되살리는 도구 활용과 시리즈 마무리.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
+      "tags": [
+        "생성형AI",
+        "PPT",
+        "AI PPT",
+        "디자인시스템",
+        "SVG",
+        "공무원 AI교육",
+        "업무자동화"
+      ]
+    }
+  ],
+  "playlist_id": "PLfvfRjza5HL0"
+}
