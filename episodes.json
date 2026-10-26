@@ -56,7 +56,7 @@
         ]
       ],
       "duration": "10분 59초",
-      "status": "uploaded",
+      "status": "published",
       "description": "디자인 감각이 없어도 됩니다. 핀터레스트에서 'editorial slide'를 검색해 마음에 드는 장표를 모으고, 보드로 추려 최종 6장을 고르는 방법.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
       "tags": [
         "생성형AI",
@@ -69,7 +69,8 @@
       ],
       "uploaded_at": "2026-10-25T12:11:53.824020+09:00",
       "zernio_post_id": "6add7369aeec1ff5b7b6f825",
-      "youtube_url": "https://www.youtube.com/watch?v=b9aKCvXaDKA"
+      "youtube_url": "https://www.youtube.com/watch?v=b9aKCvXaDKA",
+      "published_at": "2026-10-26T10:56:25.347684+09:00"
     },
     {
       "id": "ep03",
