@@ -120,7 +120,10 @@
         ]
       ],
       "duration": "13분 30초",
-      "status": "draft",
+      "status": "uploaded",
+      "uploaded_at": "2026-10-29T00:31:06+09:00",
+      "zernio_post_id": "6ae21527f2c884d2956db30f",
+      "youtube_url": "https://www.youtube.com/watch?v=ZO64eYJ_fzw",
       "description": "고른 6장과 프롬프트를 AI에 넣어 '내 디자인을 한 줄로' 정의하고 컬러·폰트·그리드 초안을 만듭니다. 윈도우 캡처(Win+Shift+S) 활용법 포함.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
       "tags": [
         "생성형AI",
