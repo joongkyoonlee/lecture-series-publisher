@@ -90,7 +90,7 @@
         ]
       ],
       "duration": "10분 59초",
-      "status": "uploaded",
+      "status": "published",
       "description": "Coolors 이미지 피커로 1등 장표에서 색을 뽑아 HEX 코드 팔레트(무드보드)를 만듭니다. 색이 매번 흔들리지 않게 하는 핵심 단계.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
       "tags": [
         "생성형AI",
@@ -103,7 +103,8 @@
       ],
       "uploaded_at": "2026-10-25T15:48:36.060327+09:00",
       "zernio_post_id": "6adda6395325ce92408a7892",
-      "youtube_url": "https://www.youtube.com/watch?v=dmfgq7GsN0Q"
+      "youtube_url": "https://www.youtube.com/watch?v=dmfgq7GsN0Q",
+      "published_at": "2026-10-28T18:41:13.535002+09:00"
     },
     {
       "id": "ep04",
