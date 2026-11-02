@@ -184,7 +184,7 @@
         ]
       ],
       "duration": "11분 43초",
-      "status": "uploaded",
+      "status": "published",
       "description": "AI가 코드만 줄 때 메모장으로 .html/.json 파일 만드는 법, 그리고 처음 만든 디자인 시스템을 AI에게 보강시키는 방법.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
       "tags": [
         "생성형AI",
@@ -197,7 +197,8 @@
       ],
       "youtube_url": "https://www.youtube.com/watch?v=M7BputzM1bc",
       "zernio_post_id": "6ae76ac16eab931e57443b4c",
-      "uploaded_at": "2026-11-02T01:40:00+09:00"
+      "uploaded_at": "2026-11-02T01:40:00+09:00",
+      "published_at": "2026-11-02T10:00:49.067411+09:00"
     },
     {
       "id": "ep07",
