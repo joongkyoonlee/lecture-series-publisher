@@ -120,7 +120,7 @@
         ]
       ],
       "duration": "13분 30초",
-      "status": "uploaded",
+      "status": "published",
       "uploaded_at": "2026-10-29T00:31:06+09:00",
       "zernio_post_id": "6ae21527f2c884d2956db30f",
       "youtube_url": "https://www.youtube.com/watch?v=ZO64eYJ_fzw",
@@ -133,7 +133,8 @@
         "SVG",
         "공무원 AI교육",
         "업무자동화"
-      ]
+      ],
+      "published_at": "2026-10-29T07:52:53+09:00"
     },
     {
       "id": "ep05",
@@ -144,16 +145,16 @@
       "source": "d27_2",
       "cuts": [
         [
-          "35:00",
-          "47:30"
+          "35:08",
+          "47:32"
         ],
         [
-          "49:00",
-          "52:30"
+          "48:59",
+          "52:20"
         ]
       ],
-      "duration": "16분 00초",
-      "status": "draft",
+      "duration": "15분 49초",
+      "status": "published",
       "description": "무드보드+브리프+규칙 2개(색 이름으로 변수 금지, 레이아웃 14개 이하)를 넣어 디자인 시스템을 사람이 읽는 HTML과 AI가 읽는 JSON 두 버전으로 만듭니다.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
       "tags": [
         "생성형AI",
@@ -163,7 +164,11 @@
         "SVG",
         "공무원 AI교육",
         "업무자동화"
-      ]
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=1CuCdRgsBMo",
+      "zernio_post_id": "6ae27faaeec938872f20894c",
+      "uploaded_at": "2026-10-29T08:05:28+09:00",
+      "published_at": "2026-10-30T16:49:28+09:00"
     },
     {
       "id": "ep06",
@@ -178,8 +183,8 @@
           "11:40"
         ]
       ],
-      "duration": "11분 40초",
-      "status": "draft",
+      "duration": "11분 43초",
+      "status": "uploaded",
       "description": "AI가 코드만 줄 때 메모장으로 .html/.json 파일 만드는 법, 그리고 처음 만든 디자인 시스템을 AI에게 보강시키는 방법.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
       "tags": [
         "생성형AI",
@@ -189,7 +194,10 @@
         "SVG",
         "공무원 AI교육",
         "업무자동화"
-      ]
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=M7BputzM1bc",
+      "zernio_post_id": "6ae76ac16eab931e57443b4c",
+      "uploaded_at": "2026-11-02T01:40:00+09:00"
     },
     {
       "id": "ep07",
