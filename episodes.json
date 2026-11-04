@@ -214,7 +214,7 @@
         ]
       ],
       "duration": "9분 00초",
-      "status": "draft",
+      "status": "published",
       "description": "손 낙서·포스트잇 캡처 한 장을 AI가 논리적으로 정리하는 법. 새 업무는 반드시 '새 채팅'으로 시작해야 하는 이유.\n\n▶ 시리즈: 생성형 AI로 PPT 만들기 (전 14편, 매일 1편)\n강의: 이중균 · 한국데이터사이언티스트협회 파트너 · AX 전문가\nhttps://joongkyoonlee.org",
       "tags": [
         "생성형AI",
@@ -224,7 +224,10 @@
         "SVG",
         "공무원 AI교육",
         "업무자동화"
-      ]
+      ],
+      "youtube_url": "https://www.youtube.com/watch?v=prua9k--lCw",
+      "uploaded_at": "2026-11-03",
+      "published_at": "2026-11-04T12:16:30+09:00"
     },
     {
       "id": "ep08",
